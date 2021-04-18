@@ -25,4 +25,4 @@ A lot of us struggling with legacy projects and if you have a usecase to extract
 
 ## Enhancement
 
- For any new pattern please add it in [SQLExtractorConstants.java](manaspandey45/sql-extractor/blob/master/src/main/java/com/misc/core/utils/SQLExtractorConstants.java) 
+ For any new pattern please add it in [SQLExtractorConstants.java](src/main/java/com/misc/core/utils/SQLExtractorConstants.java) 
